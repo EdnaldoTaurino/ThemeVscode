@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=ndJXp02QKmA&ab_channel=GabiCode
+
+https://marketplace.visualstudio.com/
+
+1 - criar uma pasta abrir o cmd e digitar: yarn init -y
+aparece um package.json e pode remover o "main"
+
+digite o comando yarn add vsce -D   // caso nao tenho o vce instalado globalmente: npm install -g vsce
+
+copie todo o package json desse aqui e edite como quiser crie uma pasta chamada dist
+
+digite o codigo: yarn package
+
+
