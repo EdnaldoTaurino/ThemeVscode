@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#aa7c5ac3"
+        "foreground": "#61afef"
       }
     },
     {
@@ -1778,7 +1778,7 @@
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
-    "statusBar.background": "#007acc",
+    "statusBar.background": "#00000000",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",

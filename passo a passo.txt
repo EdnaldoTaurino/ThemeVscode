@@ -12,3 +12,5 @@ copie todo o package json desse aqui e edite como quiser crie uma pasta chamada 
 digite o codigo: yarn package
 
 
+
+
