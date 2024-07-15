@@ -13,4 +13,12 @@ digite o codigo: yarn package
 
 
 
+----------------------------------
+
+
+# importante npm install ou yran intall para baixar o node_modules
+
+
+
+
 

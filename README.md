@@ -1,6 +1,4 @@
-# importante npm install ou yran intall para baixar o node_modules
-
-## Edy Theme
+# Edy Theme
 
 Edy Theme é um tema escuro moderno para o Visual Studio Code.
 
